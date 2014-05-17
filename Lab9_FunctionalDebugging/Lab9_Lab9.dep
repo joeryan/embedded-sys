@@ -1,0 +1,6 @@
+Dependencies for Project 'Lab9', Target 'Lab9': (DO NOT MODIFY !)
+F (.\startup.s)(0x5197E51A)()
+F (.\main.c)(0x531C4E45)()
+I (TExaS.h)(0x52A72E56)
+I (..\tm4c123gh6pm.h)(0x51D462A2)
+F (.\texas.o)(0x52F910CC)()

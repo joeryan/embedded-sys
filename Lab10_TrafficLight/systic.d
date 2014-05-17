@@ -1,0 +1,1 @@
+.\systic.o: systic.c
