@@ -19,3 +19,8 @@
 *.exe
 *.out
 *.app
+
+# Keil uVision files
+*.bak
+*.uvopt
+*.build_log.htm
